@@ -51,15 +51,10 @@
 
 // Oppgave 8
 // Lag en løkke som skriver ut følgende til konsollen: 
-
 // # 
-
 // ## 
-
 // ### 
-
 // #### 
-
 // ##### 
 
 // for (let i = 1; i <= 5; i++) {
@@ -69,5 +64,3 @@
 //     }
 //     console.log(row);
 // }
-
-// Oppgave 9
